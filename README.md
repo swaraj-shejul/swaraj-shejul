@@ -4,7 +4,7 @@
 
 *Building intelligent applications with Generative AI, RAG and Agentic AI*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-6e40c9?style=flat-square\&logo=google-chrome\&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6e40c9?style=flat-square\&logo=google-chrome\&logoColor=white)](https://swaraj-shejul.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/swaraj-shejul)
 [![GitHub](https://img.shields.io/badge/GitHub-swaraj--shejul-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/swaraj-shejul)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:swarajaiengineer@gmail.com)
